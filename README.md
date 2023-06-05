@@ -10,3 +10,5 @@ W grze może brać udział od 2 do 4 osób. Początkowo gracze nie mają żadnyc
 Superfarmer to gra, która powstała w Warszawie w 1943 roku. Nosiła wtedy tytuł "Hodowla zwierzątek". Jej autorem jest wybitny polski matematyk, profesor Karol Borsuk. Gdy Niemcy zamknęli Uniwersytet Warszawski, profesor został bez pracy. W czasie wojny ludzie dokonywali cudów pomysłowości w poszukiwaniu źródeł utrzymania. Pomysłem profesora na ratowanie budżetu rodzinnego była sprzedaż gry. 
 
 farmer.py to próba przeniesienia tej gry planszowej do wersji komputerowej.
+Gra działa w terminalu.
+Trawają prace nad GUI
